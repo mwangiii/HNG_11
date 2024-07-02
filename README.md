@@ -1,1 +1,1 @@
-# This repo contains files for HNG front end internship
+#THIS REPO HAS FILES FROM HNG 11 FRONT END TASKS
