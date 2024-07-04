@@ -10,12 +10,12 @@ body {
 }
 
 .page {
-  border-radius: 5%;
-  width: 90%;
-  max-width: 1000px;
+  width: 100%;
+  max-width: 1200px;
   padding: 20px;
-  background-color: #080808;
+  background-color: #121212;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 5%;
 }
 
 .title {
@@ -24,7 +24,7 @@ body {
 }
 
 .title h1 {
-  font-size: 2.5em;
+  font-size: 3em;
   color: #AAFF30;
   text-transform: uppercase;
   font-weight: bold;
@@ -32,7 +32,7 @@ body {
 
 .title h2 {
   margin-top: -10px;
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 
 .second-name {
@@ -42,7 +42,7 @@ body {
 .goals h3 {
   color: #AAFF30;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 1.8em;
   margin-bottom: 10px;
 }
 
@@ -53,7 +53,7 @@ body {
 }
 
 .content img {
-  opacity: 0.6;
+  opacity: 0.9;
   max-width: 100%;
   height: auto;
   border-radius: 10px;
@@ -73,7 +73,7 @@ body {
 
 .time span {
   margin-bottom: 10px;
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 
 .links {
@@ -117,19 +117,19 @@ body {
 
 @media (min-width: 768px) {
   .title h1 {
-    font-size: 3em;
+    font-size: 3.5em;
   }
 
   .title h2 {
-    font-size: 1.5em;
+    font-size: 1.8em;
   }
 
   .goals h3 {
-    font-size: 2em;
+    font-size: 2.2em;
   }
 
   .time span {
-    font-size: 1.5em;
+    font-size: 1.6em;
   }
 }
 
