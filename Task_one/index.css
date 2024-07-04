@@ -5,7 +5,7 @@ body {
   height: 100vh;
   margin: 0;
   color: white;
-  background-color: #1E1F23;
+  background-color:#121212;
   font-family: Arial, sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
   max-width: 1200px;
   padding: 20px;
   background-color: #121212;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 5%;
 }
 
 .title {
